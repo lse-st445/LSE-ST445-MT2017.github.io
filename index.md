@@ -12,7 +12,7 @@ colorlinks: true
 
 ### Instructors
 
-* Ieva Kazlauskaite, [i.kazlauskaite@lse.ac.uk](mailto:i.kazlauskaite@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 1PM - 3PM, COL 5.12.
+* Ieva Kazlauskaite, [i.kazlauskaite@lse.ac.uk](mailto:i.kazlauskaite@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 1:30PM - 2:30PM, COL 5.12.
 
 ### Teachers/GTAs
 
