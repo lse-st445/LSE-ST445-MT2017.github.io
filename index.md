@@ -127,7 +127,8 @@ This week we shall be exploring Pandas which is one of Python's main tools. It g
 
 We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.    
 
-*Readings*:
+*Readings*
+*	Codd, Edgar F..  _A relational model of data for large shared data banks_. Communications of the ACM, 1970.  Seminal paper on modern database design.
 *	Lake, Peter.  _Concise Guide to Databases: A Practical Introduction_. Springer, 2013.  Chapters 4-5, Relational Databases and NoSQL databases.
 *	Nield, Thomas. _Getting Started with SQL: A hands-on approach for beginners_. O’Reilly, 2016.  Entire text.
 * [SQLite documentation](https://www.sqlite.org/docs.html).
